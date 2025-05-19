@@ -9,4 +9,4 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: cloudposse/github-action-major-release-tagger@2
+      - uses: itisopen/github-action-major-release-tagger@2
