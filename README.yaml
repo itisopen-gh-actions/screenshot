@@ -34,7 +34,7 @@ badges:
     image: "https://img.shields.io/github/release/itisopen-gh-actions/screenshot.svg"
     url: "https://github.com/itisopen-gh-actions/screenshot/releases/latest"
   - name: "Slack Community"
-    image: "https://slack.itisopen.net/badge.svg"
+    image: "https://slack.itisopen.net/for-the-badge.svg"
     url: "https://slack.itisopen.net"
 
 related: []
